@@ -1,4 +1,5 @@
 # 💫 Hi 👋, I'm Tinku Shekhar Das.
+![](https://komarev.com/ghpvc/?username=codeByTinku)<br>
 **Learning Full Stack today, shaping ML & DevOps tomorrow 🚀**
 
 - 🌱 **I’m currently learning:** React.js
