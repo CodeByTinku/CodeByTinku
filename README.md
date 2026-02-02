@@ -5,7 +5,7 @@
 - 🌱 **I’m currently learning:** React.js
 - 📫 **How to reach me:** Tinkushekhardas190@gmail.com
 - 😄 **Pronouns:** Tinku
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- ⚡ **Fun fact:** I believe consistency beats talent 🚀
 
 ## 🔗 I am currently a 11th standard student(Commerce). 😊😊
 
