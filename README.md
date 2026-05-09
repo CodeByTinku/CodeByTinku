@@ -10,7 +10,7 @@
 ## 🔗 I am currently a 12th standard student(Commerce). 😊😊
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Tinkushekhardas190@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dscord.gg/developer_tinku_31470) [![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=Youtube&logoColor=white)](https://youtube.com/@CubingDost) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/TinkuShekharDas)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Tinkushekhardas190@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dscord.gg/developer_tinku_31470) [![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=Youtube&logoColor=white)](https://youtube.com) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/TinkuShekharDas)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
