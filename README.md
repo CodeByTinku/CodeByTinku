@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=codeByTinku)<br>
 **Learning Full Stack today, shaping ML & DevOps tomorrow 🚀**
 
-- 🌱 **I’m currently learning:** React.js
+- 🌱 **I’m currently learning:** Python
 - 📫 **How to reach me:** Tinkushekhardas190@gmail.com
 - 😄 **Pronouns:** Tinku
 - ⚡ **Fun fact:** I believe consistency beats talent 🚀
