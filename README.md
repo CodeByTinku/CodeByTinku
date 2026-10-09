@@ -21,7 +21,8 @@
 
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CodeByTinku&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByTinku&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CodeByTinku&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByTinku&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
