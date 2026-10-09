@@ -23,8 +23,7 @@
 # 📊 GitHub Stats:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByTinku&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /><br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CodeByTinku&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByTinku&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByTinku&layout=compact&theme=tokyonight" /><br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodeByTinku&theme=dark&no-frame=false&no-bg=true&margin-w=4)
